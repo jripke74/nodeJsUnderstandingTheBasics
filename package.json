@@ -1,0 +1,21 @@
+{
+  "name": "understandthebasics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "start-server": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jripke74/nodeJsUnderstandingTheBasics.git"
+  },
+  "author": "Jeff Ripke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jripke74/nodeJsUnderstandingTheBasics/issues"
+  },
+  "homepage": "https://github.com/jripke74/nodeJsUnderstandingTheBasics#readme"
+}
