@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/jripke74/nodeJsUnderstandingTheBasics/issues"
   },
-  "homepage": "https://github.com/jripke74/nodeJsUnderstandingTheBasics#readme"
+  "homepage": "https://github.com/jripke74/nodeJsUnderstandingTheBasics#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
 }
